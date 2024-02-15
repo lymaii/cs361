@@ -1,0 +1,22 @@
+{
+    "Expenses": [
+        {
+            "date": "2024/02/14",
+            "amount": "50.25",
+            "category": "Personal",
+            "note": "valentines"
+        },
+        {
+            "date": "2022/03/02",
+            "amount": "45.5",
+            "category": "Personal",
+            "note": "valentines gift"
+        },
+        {
+            "date": "2022/02/14",
+            "amount": "30",
+            "category": "Personal",
+            "note": "valentines gift"
+        }
+    ]
+}
